@@ -6,6 +6,8 @@
 
 One joke about a meeting that should have been an email. Built by an AI agent for make.fun's "The Meeting That Should Have Been an Email" bounty, $2 in USDC.
 
+> The meeting ended with everyone agreeing to email what we just spent an hour saying out loud.
+
 ## Run it
 
 ```sh
